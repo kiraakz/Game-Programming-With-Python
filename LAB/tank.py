@@ -4,6 +4,7 @@ import time
 from enum import Enum
 import sys
 
+
 pygame.init()
 size_x = 800
 size_y = 600
